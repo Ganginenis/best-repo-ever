@@ -2,4 +2,4 @@
 
 This is my First day of using GIT & GITHUB
 
-Succeded in it. Super happy
+Succeded in it. Cool with it
